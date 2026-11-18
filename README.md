@@ -33,3 +33,21 @@ Rate your skills across core topics, see where you are strong or weak, follow a 
 ## Tech stack
 
 Python · Streamlit · scikit-learn · pandas
+
+## application overview
+1 HOME DASHBOARD
+<img width="1440" height="765" alt="Screenshot 2026-11-18 at 7 26 14 PM" src="https://github.com/user-attachments/assets/7dd1ec5b-d467-409d-ad10-11387d42292c" />
+
+2 PROFILE 
+<img width="1434" height="605" alt="Screenshot 2026-11-18 at 7 26 47 PM" src="https://github.com/user-attachments/assets/8262ed17-abf5-402c-b847-4228a56d8e3d" />
+
+3 SKILL ASSESSMENT PAGE
+<img width="1439" height="485" alt="Screenshot 2026-11-18 at 7 27 21 PM" src="https://github.com/user-attachments/assets/b6ac8ada-9c22-48a4-af0d-46dd6b762571" />
+
+4 DASHBOARD
+ <img width="1428" height="698" alt="Screenshot 2026-11-18 at 7 27 39 PM" src="https://github.com/user-attachments/assets/64780d90-194f-49f0-8210-facbcec2e9ca" />
+
+5 PROGRESS TRACKER
+<img width="1433" height="759" alt="Screenshot 2026-11-18 at 7 27 58 PM" src="https://github.com/user-attachments/assets/6c59b3c0-0a96-4586-bb89-5c13c833ea2a" />
+
+
